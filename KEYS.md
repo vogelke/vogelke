@@ -1,6 +1,6 @@
 **My signing keys**
 
-You can now (sign things)[https://www.agwa.name/blog/post/ssh_signatures] with
+You can now [sign things](https://www.agwa.name/blog/post/ssh_signatures) with
 your SSH keys, so I'm putting my SSH and GPG signing keys here.
 
 ED25519
